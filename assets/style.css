@@ -1,0 +1,128 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: rgb(131, 163, 184);
+  
+}
+
+/* h2 {
+  color: #733f3f;
+} */
+
+.main-header {
+  display: flex;
+  flex-direction: column;
+
+width: 90%;
+max-width: 1280px;
+margin-left: auto;
+margin-right: auto;
+padding: .7em;
+}
+
+.title {
+color: rgba(242, 230, 223, 1);
+text-align: center;
+margin-top: 0;
+}
+
+.e-navbar {
+display: flex;
+flex-direction: column;
+align-items:center;
+text-align: center;
+}
+
+.link-navbar {
+text-decoration: none;
+color: rgba(242, 230, 223, 1);
+display: inline-block;
+margin:0.3em;
+padding: 0.2em;
+}
+
+.link-navbar:hover{
+  color:brown;
+}
+
+.container {
+
+}
+
+.element {
+
+
+}
+
+.element h3{
+  color:  rgba(242, 230, 223, 1);
+}
+
+.element a {
+
+}
+
+.img-card {
+ 
+}
+
+Color Theme Swatches in RGBA .exploration-of-a-fearless,
+-courageous-and-adventurous-traveler-1-rgba {
+  color: rgba(146, 156, 166, 1);
+}
+
+.exploration-of-a-fearless,
+-courageous-and-adventurous-traveler-2-rgba {
+  color: rgba(44, 72, 89, 1);
+}
+
+.exploration-of-a-fearless,
+-courageous-and-adventurous-traveler-3-rgba {
+  color: rgba(242, 230, 223, 1);
+}
+
+.exploration-of-a-fearless,
+-courageous-and-adventurous-traveler-4-rgba {
+  color: rgba(115, 63, 63, 1);
+}
+
+.exploration-of-a-fearless,
+-courageous-and-adventurous-traveler-5-rgba {
+  color: rgba(13, 13, 13, 1);
+}
+
+.foto {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  text-align: center;
+  background-color: aqua;
+}
+
+.imagen {
+  display: block;
+  text-align: right;
+}
+
+.redes-insta {
+  width: 80px;
+  /* height: 75px; */
+  margin-left: 25px;
+}
+
+.redes-linkeid {
+  padding-left: left 50px;
+  margin-left: 50px;
+  width: 50px;
+}
